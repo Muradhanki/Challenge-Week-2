@@ -16,7 +16,7 @@ Challenge submission of the week 2
 
 ## About The Project
 
-(https://muradhanki.github.io/Challenge-Week-2/)
+
 https://muradhanki.github.io/Challenge-Week-2/
 
 Hi everyone! This is Muradhan. I am a construction project manager of 10 years whom always had an interest overt the IT industry. Finally decided to make the switch, and started the EdX's Front end development boot camp to switch his field of work. 
