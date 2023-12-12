@@ -121,6 +121,7 @@ img {
     padding: 10px;
     width: 250px;
     height: auto;
+    min-height: 200px;
     border-right: #31343d 2px solid;
     text-decoration-color: #31343d;
     
@@ -165,34 +166,37 @@ img {
     "Project5 Project4"
     ;
   }
+
+
 #Project1 {
     grid-area: Project1;
-    background-image: url("../starter/images/MK\ Web\ Screenshot.jpg");
+    background-image: url("../Challenge-Week-2/images/MK\ Web\ Screenshot.jpg");
     alt:"Project Website screenshot";
-   
+  
+
     
   }
 
 #Project2 {
     grid-area: Project2;
     
-    background-image: url("../starter/images/02-portfolio-2.jpg");
+    background-image: url("../Challenge-Week-2/images/02-portfolio-2.jpg");
     
   }
   
 #Project3 {
     grid-area: Project3;
-    background-image: url("../starter/images/02-portfolio-3.jpg");
+    background-image: url("../Challenge-Week-2/images/02-portfolio-3.jpg");
   }
   
 #Project4 {
     grid-area: Project4;
-    background-image: url("../starter/images/02-portfolio-4.jpg");
+    background-image: url("../Challenge-Week-2/images/02-portfolio-4.jpg");
   }
   
 #Project5 {
     grid-area: Project5;
-    background-image: url("../starter/images/02-portfolio-1.jpg");
+    background-image: url("../Challenge-Week-2/images/02-portfolio-1.jpg");
   }
 .projectGridArea {
     background-position: center;
@@ -204,6 +208,9 @@ img {
     align-content: end;
     border: 10px #92ccce;
       
+  }
+.projectGridArea:hover {
+    background-color: rgba(0, 0, 0, 0.3);
   }
 .heading {
     
